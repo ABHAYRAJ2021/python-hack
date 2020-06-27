@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/user/bin/env python
 import urllib3.request
 import socket as sok
 from datetime import datetime
